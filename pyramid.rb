@@ -1,1 +1,8 @@
-#write your code here
+def pyramid 
+    puts "    #  #"
+    puts "   ##  ##"
+    puts "  ###  ###"
+    puts " ####  ####"
+    puts "#####  #####"
+end 
+pyramid
